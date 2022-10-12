@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<p align="right">
-  <img src='octocat.png' alt="octocat"/>
-</p>
 
 
 
@@ -23,6 +20,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center">
+  <img src='octocat.png' alt="octocat" style = "height = 400px;"/>
+</p>
 
 <h1 align = 'Center'>Watch a 🐍 eating my contribution graph</h1>
 <p align="center">
