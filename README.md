@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img src='octocat.png' alt="octocat" style = "height = 400px;"/>
+  <img src='octocat.png' alt="octocat" style = "height:400px;"/>
 </p>
 
 <h1 align = 'Center'>Watch a 🐍 eating my contribution graph</h1>
