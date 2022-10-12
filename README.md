@@ -2,7 +2,6 @@
 
 <p align="right">
   <img src='https://github.com/Volpe95/Volpe95/blob/master/img/octocat.png' alt="octocat"/>
-</right>
 </p>
 
 
