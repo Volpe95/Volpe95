@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-![me]([https://github.com/Volpe95/Volpe95/blob/master/img/octocat.png](https://github.com/Volpe95/Volpe95/blob/4e4ec54e5d7feb8cda13383801e72804e8341ebe/img/octocat.png))
+<p align="right">
+  <img src='https://github.com/Volpe95/Volpe95/blob/master/img/octocat.png' alt="octocat"/>
+</right>
+</p>
+
 
 
 <!--
