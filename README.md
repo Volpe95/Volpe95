@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-[[https://github.com/volpe95/repository/blob/master/img/octocat.png|alt=octocat]]
+![me](https://github.com/Volpe95/Volpe95/blob/master/img/octocat.png)
+
 
 <!--
 ![Volpe95's GitHub stats](https://github-readme-stats.vercel.app/api?username=volpe95&show_icons=true&theme=radical)
