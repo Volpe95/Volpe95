@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align="right">
-  <img src='https://github.com/Volpe95/Volpe95/blob/master/img/octocat.png' alt="octocat"/>
+  <img src='octocat.png' alt="octocat"/>
 </p>
 
 
